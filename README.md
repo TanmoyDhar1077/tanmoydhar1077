@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/tanmoy-dhar-ripon-6126922ba**
 
-- ⚡ Fun fact **I sleep only 4-5 hours**
+- ⚡ Fun fact **I sleep only 4-5 hours😂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
