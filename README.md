@@ -29,5 +29,5 @@
 </div>
 <div align = "center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=TanmoyDhar1077&theme=vue&hide_border=false" height="200">
-  <img src="https://github-contributor-stats.vercel.app/api?username=TanmoyDhar1077&limit=5&theme=vue&combine_all_yearly_contributions=true" height="150">
+  <img src="https://github-contributor-stats.vercel.app/api?username=TanmoyDhar1077&limit=5&theme=vue&combine_all_yearly_contributions=true" height="200">
 </div>
