@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tanmoy Dhar Ripon</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate Web Developer from Bangladesh</h3>
+<h5 align="center">Dedicated and passionate web developer with foundational knowledge in front-end and back-end technologies, eager to apply my skills in creating responsive and user-centric websites. Seeking an entry-level role to contribute to impactful projects 
+and expand my expertise in web development through hands-on experience in a dynamic team environment.<h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanmoydhar1077&label=Profile%20views&color=0e75b6&style=flat" alt="tanmoydhar1077" /> </p>
 
