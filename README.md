@@ -7,13 +7,13 @@ and expand my expertise in web development through hands-on experience in a dyna
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanmoydhar1077" alt="tanmoydhar1077" /></a> </p>
 
-- 🌱 I’m currently learning **React, Veu.js**
+- 🌱 I’m currently learning **full-stack web development and exploring new tech stacks. It’s been an exciting journey so far!**
 
-- 💬 Ask me about **react, veu.js**
+- 💬 Ask me about **anything related to coding — I’d love to help or share what I’ve learned.**
 
-- 📫 How to reach me **https://www.linkedin.com/in/tanmoy-dhar-ripon-6126922ba**
+- 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/tanmoy-dhar-ripon-6126922ba)**
 
-- ⚡ Fun fact **I sleep only 4-5 hours😂**
+- ⚡ Fun fact **I function surprisingly well on just 4–5 hours of sleep 😄**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
