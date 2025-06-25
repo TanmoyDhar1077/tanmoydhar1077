@@ -12,7 +12,8 @@ and expand my expertise in web development through hands-on experience in a dyna
 
 - 💬 Ask me about **anything related to coding — I’d love to help or share what I’ve learned.**
 
-- 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/tanmoy-dhar-ripon-6126922ba)**
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/tanmoy-dhar-ripon-6126922ba) or [Email](mailto:tanmoydhar1077@gmail.com)**
+
 
 - ⚡ Fun fact **I function surprisingly well on just 4–5 hours of sleep 😄**
 
