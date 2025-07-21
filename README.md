@@ -112,11 +112,12 @@ I function surprisingly well on just 4–5 hours of sleep 😄
   </tr>
   <tr>
     <td align="center">
-      <img src="https://streak-stats.demolab.com?user=tanmoydhar1077&theme=vue&hide_border=false" height="200" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanmoydhar1077&theme=vue&hide_border=false" height="200" />
     </td>
     <td align="center">
       <img src="https://github-contributor-stats.vercel.app/api?username=tanmoydhar1077&limit=5&theme=vue&combine_all_yearly_contributions=true" height="200" />
     </td>
   </tr>
 </table>
+
 
