@@ -6,7 +6,8 @@ and expand my expertise in web development through hands-on experience in a dyna
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanmoydhar1077&label=Profile%20views&color=0e75b6&style=flat" alt="tanmoydhar1077" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanmoydhar1077" alt="tanmoydhar1077" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=tanmoydhar1077)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 - 🌱 I’m currently learning **full-stack web development and exploring new tech stacks. It’s been an exciting journey so far!**
 
