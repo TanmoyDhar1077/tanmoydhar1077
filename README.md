@@ -38,7 +38,7 @@
 
   
 <p align="center">
-  <a href="https://linkedin.com/in/tanmoy-dhar-ripon-6126922ba" target="_blank">
+  <a href="https://linkedin.com/in/tanmoy-dhar-ripon" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://fb.com/tanmoydhar.ripon" target="_blank">
