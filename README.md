@@ -22,7 +22,7 @@
 - 👯 I'm looking to collaborate on **Open source projects** and **innovative web solutions**
 - 🤝 I'm looking for help with **System design** and **scalable architecture**
 - 💬 Ask me about **Web Development**, **JavaScript**, **PHP**, **React**, **Laravel**, or **anything tech-related**
-- 📫 How to reach me: **tanmoydhar1077@gmail.com**
+- 📫 How to reach me: **<a href="mailto:tanmoydhar1077@gmail.com">Email</a>**
 - ⚡ Fun fact: **I function surprisingly well on just 4–5 hours of sleep and love solving coding challenges at midnight! 🌙**
 
 ### 🎯 What I Do
