@@ -1,10 +1,10 @@
 <img src="https://i.ibb.co.com/rGSMncZg/a209f660-78c3-48b2-8618-2b96d91d094d-copied-media-2.jpg" alt="Header" width="100%"/>
 
 <h1 align="center">Hi 👋, I'm Tanmoy Dhar Ripon</h1>
-<h3 align="center">Web Developer | Software Developer | Passionate Coder from Bangladesh</h3>
+<h3 align="center">Full Stack Developer | AI Automation Architect | Software Developer | Passionate Coder from Bangladesh</h3>
 
 <p align="center">
-  Dedicated and passionate web developer and software developer with foundational knowledge in front-end and back-end technologies. Eager to apply my skills in creating responsive, user-centric websites and robust software solutions. Seeking opportunities to contribute to impactful projects and expand my expertise through hands-on experience in a dynamic team environment.
+  I am a Software Engineer bridging the gap between Full-Stack Development and AI Automation. I combine robust coding skills in ReactJS and Laravel with intelligent workflows using n8n. My focus is on building responsive applications and scalable infrastructure that drive real business impact. I don't just write code; I architect efficient solutions that solve complex problems.
 </p>
 
 <p align="center">
@@ -140,7 +140,7 @@ const tanmoy = {
     code: ["JavaScript", "PHP", "HTML", "CSS"],
     frameworks: ["React", "Laravel", "Node.js"],
     databases: ["MongoDB", "MySQL"],
-    tools: ["Git", "Figma", "Photoshop", "VS Code"],
+    tools: ["Git", "Figma", "Photoshop", "VS Code", "n8n"],
     currentFocus: "Full-stack Development & System Design",
     funFact: "I debug better with coffee ☕"
 };
